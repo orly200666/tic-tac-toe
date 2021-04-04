@@ -1,0 +1,12 @@
+button{
+    margin-right: 8vw;
+    background: rgba(151, 23, 23, 0.699);
+    color: rgb(3, 3, 3);
+    font-size: 150px;
+    
+    line-height: 180px;
+    border-color:rgba(255, 255, 255, 0);
+    text-align: center;
+    text-indent: 40px;
+    padding: 0px 0px;
+}
