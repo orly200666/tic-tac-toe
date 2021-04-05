@@ -18,12 +18,12 @@ import { NbEvaIconsModule } from  '@nebular/eva-icons'
   imports: [
     BrowserModule,
     AppRoutingModule,
-    BrowserAnimationsModule,
-    NbThemeModule.forRoot({ name: 'cosmic' }),
-    NbLayoutModule,
-    NbEvaIconsModule,
-    NbButtonModule,
-    NbThemeModule.forRoot({ name: 'default' })
+    BrowserAnimationsModule
+    //NbThemeModule.forRoot({ name: 'cosmic' }),
+    // NbLayoutModule,
+    // NbEvaIconsModule,
+    // NbButtonModule,
+    // NbThemeModule.forRoot({ name: 'default' })
   ],
   providers: [],
   bootstrap: [AppComponent]
